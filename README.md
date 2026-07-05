@@ -116,7 +116,7 @@ Start the virtual machine:
 Enter the virtual machine:
 
 ```bash
-./install-nix.sh
+./scripts/install-nix.sh
 ```
 
 ---
