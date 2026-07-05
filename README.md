@@ -1,6 +1,7 @@
 # buildroot-nix
 A minimal Linux system built with Buildroot, extended using the Nix package manager.
 
+![System information](screenshots/nix-version.png)
 ![Fastfetch](screenshots/fastfetch.png)
 
 Buildroot as a minimal base.
