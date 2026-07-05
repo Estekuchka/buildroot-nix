@@ -123,7 +123,7 @@ Enter the virtual machine:
 Example:
 
 ```bash
-nix profile install nixpkgs#fastfetch
+nix-env -iA nixpkgs.fastfetch
 ```
 
 ---
